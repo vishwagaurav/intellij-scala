@@ -1,0 +1,9 @@
+Descriptive - 
+
+SD divided by mean should be as less as possible. Guidance is less than 20%
+
+Diagnostive - 
+Predictive - 
+Prescriptive - 
+Cognitive - 
+
